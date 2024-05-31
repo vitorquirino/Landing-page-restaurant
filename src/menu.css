@@ -58,4 +58,14 @@
         flex-wrap: wrap;
         justify-content: center;
     }
+    .dish{
+        width: calc(50% - 18px);
+        
+    }
+}
+@media screen and (max-width:540px) {
+    .dish{
+        width: calc(100% - 18px);
+        
+    }
 }
