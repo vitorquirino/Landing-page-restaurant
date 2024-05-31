@@ -52,3 +52,10 @@
     align-items: center;
     gap: 20px;
 }
+
+@media screen and (max-width:1170px) {
+    #dishes{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
