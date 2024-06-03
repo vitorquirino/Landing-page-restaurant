@@ -65,7 +65,10 @@
 }
 @media screen and (max-width:540px) {
     .dish{
-        width: calc(100% - 18px);
-        
+        width:100%;
+    }
+
+    #menu .section-subtitle{
+        text-align: center;
     }
 }
