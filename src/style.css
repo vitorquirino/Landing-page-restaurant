@@ -16,6 +16,9 @@
 body{
     background-color: #fff9ea;
 }
+html{
+    scroll-behavior: smooth;
+}
 section{
     padding: 20px 8%;
 }
